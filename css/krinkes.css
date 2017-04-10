@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'krinkes';
+  src: url('../fonts/KrinkesRegularPERSONAL.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'krinkesdecor';
+  src: url('../fonts/KrinkesDecorPERSONAL.ttf') format('truetype');
+}
